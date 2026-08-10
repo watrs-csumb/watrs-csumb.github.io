@@ -1,7 +1,8 @@
 # Site-wide settings
 # ------------------
 #
-# title: Your awesome title
+title: OpenET training resources
+description: Simple front page for OpenET training resources.
 #
 # author:
 #   name: GitHub User
@@ -55,6 +56,9 @@
 #     * solarized-dark     Dark variant of solarized color scheme.
 #     * solarized          Adaptive skin for solarized color scheme skins.
 #   skin: auto
+#   skin: classic
+#   nav_pages:
+#     - index.md
 #
 #   Specific pages for site navigation.
 #     If you wish to link only specific pages in the site-navigation, use this
@@ -90,3 +94,8 @@
 #     list. Set below key to `true` to not have the link to feed rendered as
 #     part of social-links list.
 #   hide_site_feed_link: false
+
+minima:
+  skin: classic
+  nav_pages:
+    - index.md
