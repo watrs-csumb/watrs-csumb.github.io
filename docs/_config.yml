@@ -99,3 +99,7 @@ minima:
   skin: classic
   nav_pages:
     - index.md
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
