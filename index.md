@@ -1,7 +1,7 @@
 ---
 layout: page
 title: OpenET Training Resources
-permalink: /resources
+permalink: /
 ---
 
 ## Tools and Resources
