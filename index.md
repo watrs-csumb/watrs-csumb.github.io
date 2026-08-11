@@ -1,29 +1,13 @@
 ---
 layout: page
-title: OpenET training resources
-permalink: /
+title: OpenET Training Resources
+permalink: /resources
 ---
 
-This page is a simple starter template for organizing OpenET training resources by category.
+## Tools and Resources
 
-## Categories
+### [Farm and Ranch Management Support (FARMS)](https://farms.etdata.org/)
+- [Step by step](https://docs.google.com/document/d/1iRkOkF-RT8IEy3yjUHClycJbdKXQOU8ECJA_E49XFGo/edit?tab=t.0)
 
-### Getting Started
-- Add resource title: link
-- Add resource title: link
-
-### Data and Tools
-- Add resource title: link
-- Add resource title: link
-
-### Tutorials
-- Add resource title: link
-- Add resource title: link
-
-### Documentation
-- Add resource title: link
-- Add resource title: link
-
-### FAQs and Support
-- Add resource title: link
-- Add resource title: link
+### [ET Irrigation Water Balance Dashboard](https://et-irrigate.com)
+- [Step by step](https://docs.google.com/document/d/1Rtiuv8foBKxtgxE-Kg3g7iXDAZdlAqzFY9nskrWPOYo/edit?tab=t.0#heading=h.wmnk3neob41z)
